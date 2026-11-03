@@ -32,3 +32,7 @@
 - **Передаю проєкт так, щоб ним можна було керувати:** README з запуском, демо-входами й поясненням рішень.
 
 **Стек:** TypeScript · Next.js · React · Astro · Node.js · Telegram Bot API · WordPress / WooCommerce · PHP · SQLite · Docker · Vitest · GitHub Actions
+
+## Ліцензія
+
+Код у моїх репозиторіях опубліковано для перегляду й оцінки; копіювання та використання — лише з письмового дозволу.
