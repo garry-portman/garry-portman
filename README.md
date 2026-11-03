@@ -15,6 +15,7 @@
 | [Бюро МЕЖА](https://github.com/garry-portman/mezha) | Сайт архітектурного бюро з власною headless CMS і REST API | Astro, TypeScript | [відкрити](https://garry-portman.site/mezha) |
 | [Оплата через monobank](https://github.com/garry-portman/checkout-monobank) | Платежі, що не губляться: підпис вебхуків, дублікати й події не по порядку, звірка з банком | TypeScript, Hono, SQLite | демо-режим |
 | [Booking API на PostgreSQL](https://github.com/garry-portman/booking-api-postgres) | Запис, який база не дасть зламати: перетин броні відхиляє сам PostgreSQL, ідемпотентність, пагінація, OpenAPI | TypeScript, Hono, PostgreSQL | CI на PostgreSQL 17 |
+| [Асистент запису на Claude](https://github.com/garry-portman/salon-assistant) | ШІ-чат для салону: підбирає майстра й час через інструменти, а записує лише підтвердження клієнта; імʼя й телефон не йдуть у модель | TypeScript, Claude API, Hono | CI зі скриптованою моделлю |
 | [Zapys](https://github.com/garry-portman/zapys-bot) | Telegram-бот запису до салону: без подвійних записів, сповіщення адміну | TypeScript, grammY, SQLite | демо-проєкт |
 | [Amore Agency](https://github.com/garry-portman/amore-agency) | Сайт рекламної агенції: кейси «бюджет → оборот» і калькулятор бюджету | Vite, React, Elementor | [amore.marketing](https://amore.marketing) |
 | [Таргет, який продає](https://github.com/garry-portman/target-mini-course) | Лендинг курсу: квіз тарифів, оплата monobank, автоматичний доступ | WordPress, WooCommerce, PHP | [відкрити](https://target-mini-course.com.ua/) |
