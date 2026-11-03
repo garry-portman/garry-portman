@@ -8,6 +8,7 @@
 
 | Проєкт | Що це | Стек | Демо |
 | --- | --- | --- | --- |
+| [Сайт особистого бренду](https://github.com/garry-portman/personal-brand) | Концепт для публічної людини: кадр на весь екран, індекс робіт, історія становлення, лист авторці | Astro, TypeScript, CSP | демо-концепт |
 | [Студія Форма](https://github.com/garry-portman/forma) | Онлайн-запис із ролями клієнт / майстер / адміністратор; слот неможливо зайняти двічі | Next.js, TypeScript, Vitest | [відкрити](https://garry-portman.site/forma) |
 | [Крамниця Полотно](https://github.com/garry-portman/polotno) | Інтернет-магазин: залишки за розмірами, кабінет покупця й менеджера, замовлення в Telegram | Next.js, TypeScript, Vitest | [відкрити](https://garry-portman.site/polotno) |
 | [Черга](https://github.com/garry-portman/cherha) | Черга заявок для команди: права ролей на сервері, SLA, історія, звіти | Next.js, TypeScript, Vitest | [відкрити](https://garry-portman.site/cherha) |
