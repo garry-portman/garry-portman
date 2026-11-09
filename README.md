@@ -1,28 +1,30 @@
 # Garry Portman — веброзробник
 
-Роблю сайти, інтернет-магазини, сервіси онлайн-запису й Telegram-ботів для малого бізнесу та особистих брендів. Не «сторінку з кнопкою», а робочий інструмент: заявка доходить до власника, оплата проходить на сайті, а клієнт не губиться між директом і таблицею.
+Роблю сайти, інтернет-магазини, сервіси онлайн-запису, Telegram-ботів та ШІ-асистентів для малого бізнесу й особистих брендів. Не «сторінку з кнопкою», а робочий інструмент: заявка доходить до власника, оплата проходить на сайті, а клієнт не губиться між директом і таблицею.
 
-**Сайт:** [garry-portman.site](https://garry-portman.site) · **Telegram:** [@garry_portman](https://t.me/garry_portman)
+**Сайт:** [garry-portman.site](https://garry-portman.site) · **Instagram:** [@garry_portman](https://www.instagram.com/garry_portman/) · **Telegram:** [@garry_portman](https://t.me/garry_portman)
 
 ## Кейси
 
-| Проєкт | Що це | Стек | Демо |
-| --- | --- | --- | --- |
-| [Сайт особистого бренду](https://github.com/garry-portman/personal-brand) | Концепт для публічної людини: кадр на весь екран, індекс робіт, історія становлення, лист авторці | Astro, TypeScript, CSP | демо-концепт |
-| [Студія Форма](https://github.com/garry-portman/forma) | Онлайн-запис із ролями клієнт / майстер / адміністратор; слот неможливо зайняти двічі | Next.js, TypeScript, Vitest | [відкрити](https://garry-portman.site/forma) |
-| [Крамниця Полотно](https://github.com/garry-portman/polotno) | Інтернет-магазин: залишки за розмірами, кабінет покупця й менеджера, замовлення в Telegram | Next.js, TypeScript, Vitest | [відкрити](https://garry-portman.site/polotno) |
-| [Черга](https://github.com/garry-portman/cherha) | Черга заявок для команди: права ролей на сервері, SLA, історія, звіти | Next.js, TypeScript, Vitest | [відкрити](https://garry-portman.site/cherha) |
-| [Бюро МЕЖА](https://github.com/garry-portman/mezha) | Сайт архітектурного бюро з власною headless CMS і REST API | Astro, TypeScript | [відкрити](https://garry-portman.site/mezha) |
-| [Оплата через monobank](https://github.com/garry-portman/checkout-monobank) | Платежі, що не губляться: підпис вебхуків, дублікати й події не по порядку, звірка з банком | TypeScript, Hono, SQLite | демо-режим |
-| [Booking API на PostgreSQL](https://github.com/garry-portman/booking-api-postgres) | Запис, який база не дасть зламати: перетин броні відхиляє сам PostgreSQL, ідемпотентність, пагінація, OpenAPI | TypeScript, Hono, PostgreSQL | CI на PostgreSQL 17 |
-| [Асистент запису на Claude](https://github.com/garry-portman/salon-assistant) | ШІ-чат для салону: підбирає майстра й час через інструменти, а записує лише підтвердження клієнта; імʼя й телефон не йдуть у модель | TypeScript, Claude API, Hono | CI зі скриптованою моделлю |
-| [Zapys](https://github.com/garry-portman/zapys-bot) | Telegram-бот запису до салону: без подвійних записів, сповіщення адміну | TypeScript, grammY, SQLite | демо-проєкт |
-| [Amore Agency](https://github.com/garry-portman/amore-agency) | Сайт рекламної агенції: кейси «бюджет → оборот» і калькулятор бюджету | Vite, React, Elementor | [amore.marketing](https://amore.marketing) |
-| [Таргет, який продає](https://github.com/garry-portman/target-mini-course) | Лендинг курсу: квіз тарифів, оплата monobank, автоматичний доступ | WordPress, WooCommerce, PHP | [відкрити](https://target-mini-course.com.ua/) |
-| [CHAINA](https://github.com/garry-portman/chaina) | Магазин чаю: Docker-інфраструктура, конфіг без секретів, імпорт фото | WooCommerce, PHP, Docker | [chaina.com.ua](https://chaina.com.ua/) |
-| [Бриз](https://github.com/garry-portman/bryz) | Посадка під рекламу: заявка з UTM миттєво в Telegram майстра | Next.js, TypeScript | [відкрити](https://garry-portman.site/bryz) |
-| [OLSHEVSKA](https://github.com/garry-portman/olsha) | Сайт особистого бренду майстра манікюру | Next.js, TypeScript | [відкрити](https://garry-portman.site/olsha) |
-| [Ліно](https://github.com/garry-portman/lino) | Легка вітрина постільної білизни без фреймворків | HTML, CSS, JavaScript | [відкрити](https://garry-portman.site/lino) |
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://garry-portman.site/forma"><img src="img/forma.jpg" alt="Студія Форма"></a><br><b>Студія Форма</b><br>Онлайн-запис для салону: ролі клієнт / майстер / адміністратор, один слот не займуть двічі.<br><sub>Next.js · TypeScript · Vitest</sub><br><a href="https://garry-portman.site/forma">Демо →</a></td>
+<td width="33%" valign="top"><a href="https://garry-portman.site/polotno"><img src="img/polotno.jpg" alt="Крамниця Полотно"></a><br><b>Крамниця Полотно</b><br>Інтернет-магазин: залишки за розмірами, кабінети покупця й менеджера, замовлення в Telegram.<br><sub>Next.js · TypeScript · Vitest</sub><br><a href="https://garry-portman.site/polotno">Демо →</a></td>
+<td width="33%" valign="top"><a href="https://garry-portman.site/cherha"><img src="img/cherha.jpg" alt="Черга"></a><br><b>Черга</b><br>Сервіс заявок для команди: права ролей на сервері, SLA, історія змін, звіти.<br><sub>Next.js · TypeScript · Vitest</sub><br><a href="https://garry-portman.site/cherha">Демо →</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://garry-portman.site/mezha"><img src="img/mezha.jpg" alt="Бюро МЕЖА"></a><br><b>Бюро МЕЖА</b><br>Сайт архітектурного бюро з власною CMS і REST API: бюро публікує проєкти саме.<br><sub>Astro · TypeScript</sub><br><a href="https://garry-portman.site/mezha">Демо →</a></td>
+<td valign="top"><img src="img/personal-brand.jpg" alt="Сайт особистого бренду"><br><b>Сайт особистого бренду</b><br>Сайт публічної людини зі строгою політикою безпеки. Lighthouse 98 / 100 / 100 / 100.<br><sub>Astro · CSP</sub></td>
+<td valign="top"><img src="img/checkout-monobank.jpg" alt="Оплата через monobank"><br><b>Оплата через monobank</b><br>Платежі, що не губляться: підпис вебхуків, дублікати й події не по порядку, звірка з банком.<br><sub>TypeScript · Hono · SQLite</sub></td>
+</tr>
+<tr>
+<td valign="top"><img src="img/booking-api.jpg" alt="Booking API"><br><b>Booking API</b><br>REST API онлайн-запису: подвійну бронь відхиляє сама база даних. Перевірка в CI на PostgreSQL 17.<br><sub>PostgreSQL · Hono · OpenAPI</sub></td>
+<td valign="top"><img src="img/salon-assistant.jpg" alt="ШІ-асистент запису"><br><b>ШІ-асистент запису</b><br>Підбирає майстра й час у чаті, записує лише після підтвердження клієнта; особисті дані в модель не йдуть.<br><sub>Claude API · TypeScript</sub></td>
+<td valign="top"><img src="img/zapys-bot.jpg" alt="Zapys"><br><b>Zapys</b><br>Telegram-бот запису до салону: чотири натискання, без подвійних записів, сповіщення адміну.<br><sub>grammY · SQLite</sub></td>
+</tr>
+</table>
+
+**Ще проєкти:** [Amore Agency](https://amore.marketing) · [Таргет, який продає](https://target-mini-course.com.ua/) · [CHAINA](https://chaina.com.ua/) · [Бриз](https://garry-portman.site/bryz) · [OLSHEVSKA](https://garry-portman.site/olsha) · [Ліно](https://garry-portman.site/lino) — і інші на [garry-portman.site](https://garry-portman.site).
 
 ## Як я працюю
 
@@ -31,8 +33,8 @@
 - **GitHub Actions на кожен push:** lint, тести, збірка — щоб зламане не потрапило в робочу гілку.
 - **Передаю проєкт так, щоб ним можна було керувати:** README з запуском, демо-входами й поясненням рішень.
 
-**Стек:** TypeScript · Next.js · React · Astro · Node.js · Telegram Bot API · WordPress / WooCommerce · PHP · SQLite · Docker · Vitest · GitHub Actions
+**Стек:** TypeScript · Next.js · React · Astro · Node.js · PHP · Laravel · Python · WordPress / WooCommerce · PostgreSQL · MySQL · SQLite · Docker · Telegram Bot API · Claude API · Vitest · Playwright · GitHub Actions
 
-## Ліцензія
+## Код
 
-Код у моїх репозиторіях опубліковано для перегляду й оцінки; копіювання та використання — лише з письмового дозволу.
+Репозиторії проєктів приватні. Вихідний код покажу на запит — напишіть у [Telegram](https://t.me/garry_portman) або [Instagram](https://www.instagram.com/garry_portman/).
